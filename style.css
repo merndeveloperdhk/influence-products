@@ -179,6 +179,12 @@
     background-color: white;
     padding: 20px 10px 10px 10px;
     border-radius: 8px;
+    transition: 0.5s;
+    
+}
+.popular1:hover{
+    transform: scale(0.9) skewy(-5deg);
+    
 }
 .popular1 img{
     width: 300px;
